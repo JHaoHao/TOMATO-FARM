@@ -1,0 +1,14 @@
+Godot Engine v4.5.stable.official.876b29033 - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 592.00 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3050 Laptop GPU
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2468)
+saved res://docs/screenshots/01_pomodoro.png (err=0)
+saved res://docs/screenshots/02_farm.png (err=0)
+saved res://docs/screenshots/03_farm_seed_picker.png (err=0)
+saved res://docs/screenshots/04_farm_shop.png (err=0)
+saved res://docs/screenshots/05_stats.png (err=0)
+saved res://docs/screenshots/06_settings.png (err=0)
+saved res://docs/screenshots/07_confirm_reset.png (err=0)
+saved res://docs/screenshots/08_confirm_abandon.png (err=0)
+capture done

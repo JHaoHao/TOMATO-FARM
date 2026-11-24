@@ -1,0 +1,129 @@
+{
+	"farm": {
+		"coins": 120,
+		"decor": [],
+		"exp": 0,
+		"items": {
+
+		},
+		"level": 1,
+		"plots": [
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			},
+			{
+				"crop": "",
+				"grow": 0,
+				"planted_at": 0
+			}
+		],
+		"seeds": {
+			"wheat": 2
+		},
+		"unlocked": 6
+	},
+	"settings": {
+		"break_minutes": 5.0,
+		"focus_minutes": 25.0,
+		"sound_enabled": true,
+		"volume": 0.6
+	},
+	"stats": {
+		"records": [],
+		"tasks": [
+			{
+				"created_at": 1794914966,
+				"id": "t_math",
+				"tag": "数学",
+				"title": "数学"
+			},
+			{
+				"created_at": 1794914966,
+				"id": "t_english",
+				"tag": "英语",
+				"title": "英语"
+			},
+			{
+				"created_at": 1794914966,
+				"id": "t_review",
+				"tag": "复习",
+				"title": "复习错题"
+			}
+		]
+	},
+	"test": {
+		"k": 42
+	}
+}

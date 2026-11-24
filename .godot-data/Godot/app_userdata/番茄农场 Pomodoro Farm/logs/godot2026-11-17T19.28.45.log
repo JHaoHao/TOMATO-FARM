@@ -1,0 +1,107 @@
+Godot Engine v4.5.stable.official.876b29033 - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 592.00 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 3050 Laptop GPU
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2468)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:27)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:42)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:71)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:71)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:71)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:73)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:73)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Cannot infer the type of "w" variable because the value doesn't have a set type.
+   at: GDScript::reload (res://scripts/main.gd:73)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Cannot infer the type of "row" variable because the value doesn't have a set type.
+   at: GDScript::reload (res://scripts/main.gd:75)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:77)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:77)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Cannot infer the type of "brand" variable because the value doesn't have a set type.
+   at: GDScript::reload (res://scripts/main.gd:77)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:79)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:82)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Cannot infer the type of "b" variable because the value doesn't have a set type.
+   at: GDScript::reload (res://scripts/main.gd:82)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:89)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:90)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:90)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:103)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:103)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:106)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:115)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+SCRIPT ERROR: Parse Error: Identifier "UIKit" not declared in the current scope.
+   at: GDScript::reload (res://scripts/main.gd:134)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+ERROR: Failed to load script "res://scripts/main.gd" with error "Parse error".
+   at: load (modules/gdscript/gdscript.cpp:3041)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:22)
+saved res://docs/screenshots/01_pomodoro.png (err=0)
+SCRIPT ERROR: Invalid call. Nonexistent function '_switch' in base 'Control'.
+   at: _ready (res://tests/capture.gd:35)
+   GDScript backtrace (most recent call first):
+       [0] _ready (res://tests/capture.gd:35)
+       [1] _shoot (res://tests/capture.gd:131)
